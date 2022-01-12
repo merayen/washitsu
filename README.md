@@ -5,6 +5,11 @@ What to do when Corona hinders travel to Japan? Build my own Japan at home :3
 
 ![washitsu](img/plan.jpg)
 
+## Possible configurations
+1. Dining mode: hole in the middle with space for a table
+2. Tea mode: A smaller hole in the center of the room where tea can be made
+3. Futon mode: No holes, there is space for 2 futons
+
 ## Materials
 - [Lekter 48x098 C24](https://www.maxbo.no/konstruksjonsvirke-gran-48x098-c24-p914628/ )
 	- For the floor framework
