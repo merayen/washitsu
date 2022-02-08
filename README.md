@@ -18,6 +18,8 @@ What to do when Corona hinders travel to Japan? Build my own Japan at home :3
 - [Glattkantlist furu 12x043x2400 ubehandlet](https://www.maxbo.no/glattkantlist-furu-12x043x2400-ubehandlet-p2779716/ )
 	- For the walls
 	- TODO need a wider version too that holds the windows?
+- [Trefiberplate huntonit hard 3mm 3x1220x2440mm](https://www.maxbo.no/trefiberplate-huntonit-hard-3mm-3x1220x2440mm-p902580/ )
+	- Cover opp the walls
 - Mange vinkler til alt
 - Shouji paper, lots!
 	- Need to be somewhat transparent, we may layer them to adjust transparency?
