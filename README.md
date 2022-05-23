@@ -16,7 +16,7 @@ What to do when Corona hinders travel to Japan? Build my own Japan at home :3
 	py 2*3 + 10*0.35 + 2.2 * 2 + 3 * 2 + 3 * 2
 - [Sponplate gulv 22x620x1820](https://www.maxbo.no/sponplate-gulv-std-1820-22x620x1820-gulv-p6-std-p959990/ )
 	- Tatami will be laid directly onto those
-- [Gipsplater 1200x2400x12,5mm](https://www.maxbo.no/gipsplate-standard-1200x2400x12-5-norgips-p960331/ )
+- [Parkettunderlag Silencio 6x590x790 Hunton](https://www.maxbo.no/parkettunderlag-silencio-6x590x790-hunton-p2266704/ )
 	- Walls where shouji paper will be glued to
 - [Lekter 48x048](https://www.maxbo.no/justert-rekke-gran-furu-48x048-kl-1-p903981/ )
 	- Should probably drop this one, replace with:
